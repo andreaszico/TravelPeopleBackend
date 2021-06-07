@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Slim Framework 3 Skeleton Application
 
 Use this skeleton application to quickly setup and start working on a new Slim Framework 3 application. This application uses the latest Slim 3 with the PHP-View template renderer. It also uses the Monolog logger.
@@ -32,6 +33,9 @@ Run this command in the application directory to run the test suite
 	php composer.phar test
 
 That's it! Now go build something cool.
+=======
+# TravelPeopleBackend
+>>>>>>> e732adcc64ed43ec6c21f98ff9104b9a78c096ae
 =======
 # TravelPeopleBackend
 >>>>>>> e732adcc64ed43ec6c21f98ff9104b9a78c096ae
